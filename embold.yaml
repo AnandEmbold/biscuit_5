@@ -18,3 +18,5 @@ sources:
     - 'library'
     - '.git'
     - 'html'
+    
+languages: 'javascript'
