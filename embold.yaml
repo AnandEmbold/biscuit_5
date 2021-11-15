@@ -19,4 +19,6 @@ sources:
     - '.git'
     - 'html'
     
-languages: 'javascript'
+languages: 
+    - 'javascript'
+    - 'typescript'
