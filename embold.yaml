@@ -20,5 +20,4 @@ sources:
     - 'html'
     
 languages: 
-    - 'javascript'
-    - 'typescript'
+    - 'python'
