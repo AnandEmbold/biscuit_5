@@ -20,4 +20,4 @@ sources:
     - 'html'
     
 languages: 
-    - 'python'
+    - 'typescript'
