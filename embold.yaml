@@ -20,4 +20,4 @@ sources:
     - 'html'
     
 languages: 
-    - 'typescript'
+    - 'typescript,javascript,objective_c'
